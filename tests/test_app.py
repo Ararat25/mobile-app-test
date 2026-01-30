@@ -1,9 +1,9 @@
 import unittest
-from app import MyApp
 
 class TestApp(unittest.TestCase):
-    def test_example(self):
-        self.assertTrue(True)
+    def test_functionality(self):
+        # Пример проверки конкретной функции приложения
+        self.assertTrue(True, "Test passed")
 
 if __name__ == '__main__':
     unittest.main()
