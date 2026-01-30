@@ -1,11 +1,11 @@
-import unittest
-from app import MyApp
+import app
 
-class TestAppFeature(unittest.TestCase):
-    def test_feature(self):
-        app = MyApp()
-        result = app.feature()
-        self.assertEqual(result, 'expected_result')
+test_app = app.App()
 
-if __name__ == '__main__':
-    unittest.main()
+def test_feature_various_scenarios():
+    # Проверка различных сценариев использования функции feature
+    assert test_app.feature_name(arg1, arg2) == expected_result
+    # Проверка обработки ошибок
+    with pytest.raises(Exception) as exc:
+        test_app.feature_name(arg1, arg2)
+    assert str(exc.value) == expected_error_message

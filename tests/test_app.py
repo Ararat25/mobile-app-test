@@ -1,9 +1,13 @@
-import unittest
-from app import MyApp
+import app
 
-class TestApp(unittest.TestCase):
-    def test_example(self):
-        self.assertTrue(True)
+test_app = app.App()
 
-if __name__ == '__main__':
-    unittest.main()
+def test_app_functionality():
+    # Проверка основной функции приложения
+    assert test_app.function_name() == expected_result
+
+def test_app_error_handling():
+    # Проверка обработки ошибок
+    with pytest.raises(Exception) as exc:
+        test_app.function_name()
+    assert str(exc.value) == expected_error_message
