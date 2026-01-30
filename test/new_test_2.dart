@@ -1,13 +1,8 @@
-import 'package:flutter/material.dart';
-
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  test('Test method functionality', () {
-    // Create a method to test
-    final method = () => 'Hello, World!';
-
-    // Test the method
-    expect(method(), equals('Hello, World!'));
+  test('test method interaction', () {
+    // Проверка взаимодействия метода с другими компонентами
+    expect(methodWithInteraction(), equals(expectedResult));
   });
 }
