@@ -1,15 +1,27 @@
 # Mobile App Test Documentation
 
-This is the main documentation for the mobile app test project.
+This repository contains the source code for a mobile application test.
 
 ## Architecture
 
-[Describe the architecture of the project here]
+The project is structured as follows:
+- android
+- ios
+- lib
+- linux
+- macos
+- pubspec.lock
+- pubspec.yaml
+- test
+- web
+- windows
 
 ## Getting Started
 
-[Describe how to get started with the project here]
+To get started, clone the repository and run the following commands:
+1. `flutter pub get`
+2. `flutter build`
 
 ## Contributing
 
-[Describe how to contribute to the project here]
+Contributions are welcome! Please follow the guidelines in the [contributing guide](https://github.com/Ararat25/mobile-app-test/blob/main/CONTRIBUTING.md).
