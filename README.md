@@ -1,10 +1,8 @@
 # Mobile App Test Documentation
 
-This repository contains the source code for a mobile application test.
+This repository contains the source code for the mobile application test.
 
-## Architecture
-
-The project is structured as follows:
+## Structure
 - android
 - ios
 - lib
@@ -16,12 +14,8 @@ The project is structured as follows:
 - web
 - windows
 
-## Getting Started
-
-To get started, clone the repository and run the following commands:
-1. `flutter pub get`
-2. `flutter build`
-
 ## Contributing
+- [Contribution Guidelines](https://github.com/Ararat25/mobile-app-test/blob/main/CONTRIBUTING.md)
 
-Contributions are welcome! Please follow the guidelines in the [contributing guide](https://github.com/Ararat25/mobile-app-test/blob/main/CONTRIBUTING.md).
+## License
+- [MIT License](https://github.com/Ararat25/mobile-app-test/blob/main/LICENSE)
