@@ -6,19 +6,22 @@
 
 ## Структура проекта
 
-- android
-- ios
-- lib
-- linux
-- macos
-- pubspec.lock
-- pubspec.yaml
-- test
-- web
-- windows
+- `android/`
+- `ios/`
+- `lib/`
+- `linux/`
+- `macos/`
+- `pubspec.lock`
+- `pubspec.yaml`
+- `test/`
+- `web/`
+- `windows/`
 
-## Как запустить проект
+## Инструкции по запуску
 
-Для запуска проекта выполните следующие шаги:
-1. Установите необходимые зависимости.
-2. Запустите приложение в выбранной среде (Android, iOS, Linux, macOS, Windows).
+Для запуска приложения выполните следующие шаги:
+1. ...
+
+## Ссылки
+
+- [Документация Flutter](https://flutter.dev/)
