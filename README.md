@@ -1,8 +1,11 @@
-# Mobile App Test Documentation
+# Mobile App Test
 
-This repository contains the source code for the mobile application test.
+## Описание проекта
 
-## Structure
+Этот проект представляет собой мобильное приложение для тестирования.
+
+## Структура проекта
+
 - android
 - ios
 - lib
@@ -14,8 +17,8 @@ This repository contains the source code for the mobile application test.
 - web
 - windows
 
-## Contributing
-- [Contribution Guidelines](https://github.com/Ararat25/mobile-app-test/blob/main/CONTRIBUTING.md)
+## Как запустить проект
 
-## License
-- [MIT License](https://github.com/Ararat25/mobile-app-test/blob/main/LICENSE)
+Для запуска проекта выполните следующие шаги:
+1. Установите необходимые зависимости.
+2. Запустите приложение в выбранной среде (Android, iOS, Linux, macOS, Windows).
