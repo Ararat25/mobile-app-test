@@ -1,4 +1,4 @@
-# Mobile App Test
+# mobile-app-test
 
 ## Описание
 
