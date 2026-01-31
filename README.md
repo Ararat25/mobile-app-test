@@ -1,23 +1,24 @@
-# Mobile App Test
+# Mobile App Test Documentation
 
-## Структура проекта
+## Overview
 
-### Основные директории
-- `android/`
-- `ios/`
-- `lib/`
-- `linux/`
-- `macos/`
-- `web/`
-- `windows/`
+This is the documentation for the mobile app test project.
 
-### Описание компонентов
-- `analysis_options.yaml` - настройки анализа кода
-- `build.gradle.kts` - файлы сборки для Android
-- `AppDelegate.swift` - основной файл для iOS
-- `main.dart` - основной файл для Flutter
-- `CMakeLists.txt` - файлы для сборки на Linux и Windows
+## Architecture
 
-### Дополнительные ресурсы
-- `pubspec.lock` и `pubspec.yaml` - файлы для управления зависимостями Flutter
-- `test/widget_test.dart` - тестовые файлы
+The project is structured as follows:
+
+- android
+- ios
+- lib
+- linux
+- macos
+- pubspec.lock
+- pubspec.yaml
+- test
+- web
+- windows
+
+## Usage
+
+[Detailed usage instructions here]
