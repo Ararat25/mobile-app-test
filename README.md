@@ -1,11 +1,15 @@
 # Mobile App Test Documentation
 
-This repository contains the source code for a mobile application test.
+This is the main documentation for the mobile app test project.
 
 ## Architecture
 
-[Insert architecture description here]
+[Describe the architecture of the project here]
 
 ## Getting Started
 
-[Insert getting started instructions here]
+[Describe how to get started with the project here]
+
+## Contributing
+
+[Describe how to contribute to the project here]
