@@ -1,23 +1,13 @@
-# Mobile App Test Documentation
+# Mobile App Test
 
-## Overview
+## Описание
 
-This is the documentation for the mobile app test project.
+Краткое описание приложения.
 
-## Architecture
+## Архитектура
 
-The project is structured as follows:
-- android
-- ios
-- lib
-- linux
-- macos
-- pubspec.lock
-- pubspec.yaml
-- test
-- web
-- windows
+Описание архитектуры приложения.
 
-## Usage
+## Использование
 
-Detailed instructions on how to use the app will go here.
+Инструкции по использованию приложения.
